@@ -11,7 +11,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>TITLE Summer NEW SEARCH</title>
+	<title>TITLE Winter NEW SEARCH</title>
     <link rel="stylesheet" href="http://jamrocksummer.com/wp-content/themes/jamrocksummer/style.css" type="text/css" media="screen">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://jamrocksummer.com/xmlrpc.php">
